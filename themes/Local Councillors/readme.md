@@ -26,7 +26,7 @@ Each dataset includes:
 
 ## Features
 
-- Links LSOAs with Electoral Wards using ONS best fit methodology
+- Links LSOAs with Electoral Wards using ONS best fit lookup spreadsheet for the relevant date
 - Includes deprivation data from the 2019 English Indices of Deprivation
 - Provides party affiliation of councillors using Electoral Commission party codes
 - Tallies councillors per party in individual wards
@@ -46,7 +46,7 @@ Each dataset includes:
 
 ## Updates
 
-The data is updated annually, shortly after the May elections.
+We don't have plans to regularly update this data. The sources from which it is taken are updated annually, shortly after the May elections, except the English Indices of Deprivation which are scheduled to be next updated in late 2025.
 
 ## License
 
